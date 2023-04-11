@@ -1,7 +1,7 @@
 # AutotestFlipKz
 Автоматизированные тесты для сайта Flip.kz
 
-Тест-кейс Gmail: https://docs.google.com/spreadsheets/d/1BlF22uBML9SCyiA6_s2TserfyiUWegFJj1dii6i9ykk/edit?usp=sharing
+Тест-кейс Gmail: https://docs.google.com/spreadsheets/d/1CQLGZglOFxvR6JpgHISxRnnyCnfCyzoZi8FLByNXxQE/edit?usp=sharing
 
  Шаги, для запуска тестов:
   1. Разархивировать проект "Test_Flip" в любое удобное место.
